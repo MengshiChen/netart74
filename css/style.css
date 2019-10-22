@@ -38,10 +38,16 @@ h3 {
 }
 
 #four {
+  background-color: #AEB8F5;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-bottom: 50px;
+}
+
+#five {
   background-color: green;
   clear: both;
 }
-
 .red-text{
   color: green;
   font-size:35px;
