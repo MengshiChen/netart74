@@ -14,7 +14,7 @@ p {
 }
 
 h3 {
-  color: orange;
+  color: pink;
 }
 
 #one {
@@ -23,17 +23,17 @@ h3 {
 }
 
 #two {
-  background-color: orange;
-  float: left;
-  margin-left: 50px;
+  background-color: pink;
+  margin-left: 150px;
+  margin-right: 150px;
   margin-bottom: 50px;
 
 }
 
 #three {
-  background-color: pink;
-  float: right;
-  margin-right: 50px;
+  background-color: yellow;
+  margin-left: 150px;
+  margin-right: 150px;
   margin-bottom: 50px;
 }
 
@@ -43,5 +43,6 @@ h3 {
 }
 
 .red-text{
-  color: lightgreen;
+  color: green;
+  font-size:35px;
 }
