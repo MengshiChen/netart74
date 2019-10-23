@@ -1,7 +1,7 @@
 body {
+  background-color: lightblue;
   max-width: 1000px;
   margin:auto;
-  background-color: lightblue;
   text-align: center;
 }
 
@@ -23,30 +23,42 @@ h3 {
 }
 
 #two {
-  background-color: pink;
+
   margin-left: 150px;
   margin-right: 150px;
   margin-bottom: 50px;
+  position: relative;
+  top: 150px;
+  left: 150px;
+  z-index: 2;
 
 }
 
 #three {
-  background-color: yellow;
+
   margin-left: 150px;
   margin-right: 150px;
   margin-bottom: 50px;
+  z-index: 2;
 }
 
 #four {
-  background-color: #AEB8F5;
   margin-left: 150px;
   margin-right: 150px;
   margin-bottom: 50px;
+  z-index: 2;
 }
 
 #five {
   background-color: green;
   clear: both;
+  z-index: 2;
+}
+
+#phone {
+  position: fixed;
+  left:700px; 
+  z-index:-1;
 }
 .red-text{
   color: green;
