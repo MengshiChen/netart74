@@ -1,54 +1,15 @@
-body {
+body {<a href="lu_page_two.html"><img src="images/lulu.gif" alt="lulu"></a>
   max-width: 1000px;
   margin:auto;
-  background-color: lightblue;
   text-align: center;
+
+#phone {
+  position: fixed;
+  left:850px;
+  z-index:-1;
 }
 
-h1 {
-  color:darkblue;
-}
-
-p {
-  color: violet;
-}
-
-h3 {
-  color: pink;
-}
-
-#one {
-  background-color:  yellow;
-
-}
-
-#two {
-  background-color: pink;
-  margin-left: 150px;
-  margin-right: 150px;
-  margin-bottom: 50px;
-
-}
-
-#three {
-  background-color: yellow;
-  margin-left: 150px;
-  margin-right: 150px;
-  margin-bottom: 50px;
-}
-
-#four {
-  background-color: #AEB8F5;
-  margin-left: 150px;
-  margin-right: 150px;
-  margin-bottom: 50px;
-}
-
-#five {
-  background-color: green;
-  clear: both;
-}
 .red-text{
   color: green;
-  font-size:35px;
+  font-size:40px;
 }
