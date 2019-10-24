@@ -3,20 +3,17 @@ body {
   margin:auto;
   text-align: center;
 
-#phone {
+.phone{
   position: fixed;
   left:850px;
   z-index:-1;
+  width: 100%;
 }
 
-.red-text{
-  color: green;
-  font-size:40px;
-}
 .ins2 {
     margin: 0px auto;
     width: 50%;
 }
 .img1 {
-    width: 100%;
+  width: 100%;
 }
