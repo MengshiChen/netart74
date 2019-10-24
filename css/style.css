@@ -1,4 +1,4 @@
-body {<a href="lu_page_two.html"><img src="images/lulu.gif" alt="lulu"></a>
+body {
   max-width: 1000px;
   margin:auto;
   text-align: center;
@@ -12,4 +12,7 @@ body {<a href="lu_page_two.html"><img src="images/lulu.gif" alt="lulu"></a>
 .red-text{
   color: green;
   font-size:40px;
+}
+.ins2{
+  float: center;
 }
