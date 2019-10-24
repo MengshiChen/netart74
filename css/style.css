@@ -13,6 +13,10 @@ body {
   color: green;
   font-size:40px;
 }
-.ins2{
-  margin-right: 200px;
+.ins2 {
+    margin: 0px auto;
+    width: 50%;
+}
+.img1 {
+    width: 100%;
 }
