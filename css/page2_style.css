@@ -3,12 +3,6 @@ body {
   margin:auto;
   text-align: center;
 
-#phone {
-  position: fixed;
-  left:850px;
-  z-index:-1;
-}
-
 .red-text{
   color: green;
   font-size:40px;
@@ -16,10 +10,12 @@ body {
 
 .ins2{
     margin-left:500px;
-    margin-right: 500px;
-    padding-left: 800px;
+    margin-right: 800px;
+    padding-left: 700px;
 }
 
-.img1 {
-    width: 100%;
+.red-text{
+  color: green;
+  font-size:40px;
+
 }
