@@ -3,7 +3,7 @@ body {
   margin:auto;
   text-align: center;
 
-.phone{
+.handphone{
   position: fixed;
   left:850px;
   z-index:-1;
