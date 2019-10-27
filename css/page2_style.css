@@ -5,23 +5,18 @@ body {
   margin:auto;
   text-align: center;
 }
-
-#one{
-  color: purple;
-  font-size: 150px;
-  padding: 6px;
-  float:left;
-  margin:5%;
-  width:35%;
+#lulu{position:relative;right:800px;
+  position:relative;top:400px;
 }
 
-#two{
-  color:orange;
-  font-size: 150px;
-  padding: 6px;
-  float:middle;
-  margin:5%;
-  width:35%;
+#mengshi{
+  position:relative;right:1600px;
+    position:relative;top:100px;
+}
+
+#chengyuan{
+  position:relative;right:1200px;
+      position:relative;top:-100px
 }
 
 #three{
