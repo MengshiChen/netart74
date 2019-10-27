@@ -1,11 +1,11 @@
 body {
   max-width: 1000px;
   margin:auto;
-  text-align: center;
+  text-align: center;}
 
-.handphone{
-  position: fixed;
-  left:850px;
+#headphone{
+  position:absolute;
+  left:2px;
   z-index:-1;
   width: 100%;
 }
