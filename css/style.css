@@ -4,8 +4,7 @@ body {
   text-align: center;}
 
 #headphone{
-  position:absolute;
-  left:2px;
+ position:relative;left:100px;
   z-index:-1;
   width: 100%;
 }
