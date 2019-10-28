@@ -1,25 +1,23 @@
 body {
-  max-width: 1000px;
-  margin:auto;
-  text-align: center;}
-
-#headphone{
- position:relative;left:100px;
-  z-index:-1;
+  background-image: url(/images/luxubackground.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   width: 100%;
+  height: 100%;
 }
 
-.red-text{
-  color: green;
-  font-size:40px;
+.lulu{
+  width:10px;
+  position: right:800px;
 }
 
-.ins2{
-    margin-left:500px;
-    margin-right: 500px;
-    padding-left: 800px;
+.mengshi{
+  width:1000px;
+  margin-top: 60px;
+  position：top:800px;
 }
 
-.img1 {
-  width: 100%;
+.chengyuan{
+  width:1000px;
+  position: right:800px;
 }

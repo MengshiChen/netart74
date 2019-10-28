@@ -1,29 +1,23 @@
-@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Indie+Flower&display=swap');
-
 body {
-  max-width: 1000px;
-  margin:auto;
-  text-align: center;
+  background-image: url(/images/forest2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
 }
-#lulu{position:relative;right:800px;
-  position:relative;top:400px;
+
+#lulu{
+  width:10px;
+  position: right:1000px;
 }
 
 #mengshi{
-  position:relative;right:1600px;
-    position:relative;top:100px;
+  width:1000px;
+  margin-top: 600px;
+  position：top:8000px;
 }
 
 #chengyuan{
-  position:relative;right:1200px;
-      position:relative;top:-100px
-}
-
-#three{
-  color: Green;
-  font-size: 150px;
-  padding: 6px;
-  float:right;
-  margin:5%;
-  width:35%;
+  width:1000px;
+  position: right:800px;
 }
