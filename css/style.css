@@ -7,6 +7,8 @@ body {
 }
 
 #handphone{
-  margin:auto;
-  float:right;
+margin: 5%;
+padding:6px;
+float:right;
+width:25%;
 }
